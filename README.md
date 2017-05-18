@@ -1,2 +1,3 @@
 # daux-api-docs-theme
-Modified daux theme for API documentation
+
+Modified daux theme for API documentation.
