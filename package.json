@@ -1,11 +1,11 @@
 {
   "name": "daux-api-docs-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Daux theme modified to build libraries API docs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"node_modules/.bin/lessc dauxapi/less/theme-navy.less dauxapi/css/theme-navy.min.css && node_modules/.bin/lessc dauxapi/less/theme-green.less dauxapi/css/theme-green.min.css && node_modules/.bin/lessc dauxapi/less/theme-blue.less dauxapi/css/theme-blue.min.css && node_modules/.bin/lessc dauxapi/less/theme-red.less dauxapi/css/theme-red.min.css"
+    "build":"node_modules/.bin/lessc daux/less/theme-navy.less daux/css/theme-navy.min.css && node_modules/.bin/lessc daux/less/theme-green.less daux/css/theme-green.min.css && node_modules/.bin/lessc daux/less/theme-blue.less daux/css/theme-blue.min.css && node_modules/.bin/lessc daux/less/theme-red.less daux/css/theme-red.min.css"
   },
   "repository": {
     "type": "git",
