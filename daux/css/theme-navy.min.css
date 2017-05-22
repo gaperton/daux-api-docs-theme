@@ -569,7 +569,7 @@ h6 {
 .s-content h1 {
   font-size: 2em;
   color: black;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid gray;
   padding: 5px 0px 5px 20px;
   border-top-color: #7795b4;
   border-top-width: 6px;
@@ -578,9 +578,15 @@ h6 {
   margin-right: -20px;
 }
 .s-content h2 {
-  font-size: 1.6em;
+  font-size: 1.5em;
   color: black;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
+  border-bottom-color: gray;
+  margin-bottom: 12px;
   padding: 5px 0px 5px 20px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 .s-content h3 {
   color: black;
@@ -1135,7 +1141,11 @@ Components
 .Page__header {
   margin: 0 0 10px;
   padding: 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 2px solid grey;
+  font-size: 1.5em;
+  padding: 5px 0px 5px 20px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 .Page__header::before,
 .Page__header::after {
@@ -1162,6 +1172,7 @@ Components
 }
 .Page__header a {
   text-decoration: none;
+  padding-right: 10px;
 }
 .Links {
   padding: 0 20px;
