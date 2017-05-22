@@ -576,15 +576,16 @@ h6 {
   border-top-style: solid;
   margin-left: -20px;
   margin-right: -20px;
+  margin-top: 0;
 }
 .s-content h2 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   color: black;
   border-bottom-style: dotted;
   border-bottom-width: 1px;
   border-bottom-color: gray;
   margin-bottom: 12px;
-  padding: 5px 0px 5px 20px;
+  padding: 5px 0px 3px 20px;
   margin-left: -20px;
   margin-right: -20px;
 }
@@ -599,7 +600,7 @@ h6 {
 }
 .s-content h4 {
   font-size: 1em;
-  font-weight: 400;
+  font-weight: bold;
   padding: 3px 0px 7px 0px;
 }
 .s-content h5 {
@@ -1139,11 +1140,9 @@ Components
   transform: rotate(135deg);
 }
 .Page__header {
-  margin: 0 0 10px;
-  padding: 0;
-  border-bottom: 2px solid grey;
+  border-bottom: 1px solid #82becd;
   font-size: 1.5em;
-  padding: 5px 0px 5px 20px;
+  padding: 0px 0px 0px 20px;
   margin-left: -20px;
   margin-right: -20px;
 }
