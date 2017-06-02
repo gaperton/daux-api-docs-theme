@@ -1,6 +1,6 @@
 {
   "name": "daux-api-docs-theme",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Daux theme modified to build libraries API docs",
   "main": "index.js",
   "scripts": {
