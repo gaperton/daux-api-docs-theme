@@ -1088,8 +1088,8 @@ Components
   top: 50%;
   width: 0.5em;
   height: 0.5em;
-  border-right: 0.15em solid #c64641;
-  border-top: 0.15em solid #c64641;
+  border-right: 0.15em solid #eee;
+  border-top: 0.15em solid #eee;
   transform: rotate(45deg);
   transition-duration: 0.3s;
 }
