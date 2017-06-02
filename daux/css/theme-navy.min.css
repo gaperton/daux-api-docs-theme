@@ -408,7 +408,7 @@ body {
   color: #2d2d2d;
 }
 .Columns__left {
-  background-color: #f5f5f6;
+  background-color: #44444e;
 }
 .Columns__right__content {
   background-color: #fff;
@@ -1100,7 +1100,7 @@ Components
   padding: 6px 15px 6px 20px;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #13132a;
+  color: #7795b4;
   font-size: 15px;
   text-shadow: none;
   border-color: #e7e7e9;
@@ -1357,7 +1357,7 @@ Homepage
 }
 .HomepageButtons .Button--hero.Button--primary {
   background-color: #13132a;
-  color: #f5f5f6;
+  color: #44444e;
 }
 .HomepageContent {
   background-color: white;
