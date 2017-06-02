@@ -2,7 +2,7 @@
 
 // Add logo
 $(function(){
-    var depth = $( 'link[rel=icon]')[ 0 ].getAttribute( 'href' ).split( '..' ).length = 1;
+    var depth = $( 'link[rel=icon]')[ 0 ].getAttribute( 'href' ).split( '..' ).length - 1;
     var brand = document.getElementsByClassName("Navbar__brand")[ 0 ].parentElement;
 	
     var path = [ "logo.png" ];
