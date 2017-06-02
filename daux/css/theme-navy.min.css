@@ -408,7 +408,7 @@ body {
   color: #2d2d2d;
 }
 .Columns__left {
-  background-color: #2c2c31;
+  background-color: #2b2b2f;
 }
 .Columns__right {
   background-color: #44444e;
@@ -492,7 +492,6 @@ body {
   }
   .Columns__left {
     width: 25%;
-    border-right: 1px solid #e7e7e9;
     overflow-x: hidden;
   }
   .Columns__right {
@@ -1122,7 +1121,7 @@ Components
   margin-left: -15px;
   padding: 3px 30px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #2d2d2d;
+  color: #7795b4;
   opacity: 0.7;
 }
 .Nav .Nav .Nav__item a:hover {
@@ -1360,7 +1359,7 @@ Homepage
 }
 .HomepageButtons .Button--hero.Button--primary {
   background-color: #13132a;
-  color: #2c2c31;
+  color: #2b2b2f;
 }
 .HomepageContent {
   background-color: white;
