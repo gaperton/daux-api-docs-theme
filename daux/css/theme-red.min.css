@@ -572,9 +572,9 @@ h6 {
 .s-content h1 {
   font-size: 2em;
   color: black;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #c64641;
   padding: 5px 0px 5px 20px;
-  border-top-color: #ecb5a1;
+  border-top-color: #c64641;
   border-top-width: 6px;
   border-top-style: solid;
   margin-left: -20px;
@@ -586,7 +586,7 @@ h6 {
   color: black;
   border-bottom-style: dotted;
   border-bottom-width: 1px;
-  border-bottom-color: gray;
+  border-bottom-color: #c64641;
   margin-bottom: 12px;
   padding: 5px 0px 3px 20px;
   margin-left: -20px;

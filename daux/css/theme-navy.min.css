@@ -408,10 +408,10 @@ body {
   color: #2d2d2d;
 }
 .Columns__left {
-  background-color: #44444e;
+  background-color: #2c2c31;
 }
 .Columns__right {
-  background-color: #2c2c31;
+  background-color: #44444e;
 }
 .Columns__right__content {
   background-color: #fff;
@@ -572,9 +572,9 @@ h6 {
 .s-content h1 {
   font-size: 2em;
   color: black;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #44444e;
   padding: 5px 0px 5px 20px;
-  border-top-color: #7795b4;
+  border-top-color: #44444e;
   border-top-width: 6px;
   border-top-style: solid;
   margin-left: -20px;
@@ -586,7 +586,7 @@ h6 {
   color: black;
   border-bottom-style: dotted;
   border-bottom-width: 1px;
-  border-bottom-color: gray;
+  border-bottom-color: #44444e;
   margin-bottom: 12px;
   padding: 5px 0px 3px 20px;
   margin-left: -20px;
@@ -1360,7 +1360,7 @@ Homepage
 }
 .HomepageButtons .Button--hero.Button--primary {
   background-color: #13132a;
-  color: #44444e;
+  color: #2c2c31;
 }
 .HomepageContent {
   background-color: white;
