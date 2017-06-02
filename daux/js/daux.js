@@ -18,7 +18,8 @@ $(function(){
 	brand.prepend( img2 );
 
     $( 'img[path]' ).each( function( i, el ){
-        $el.attr( 'src', root.concat( [ $( el ).attr( 'path' ) ] ).join( '/' ) );
+        var $el = $( el );
+        $el.attr( 'src', root.concat( [ $el.attr( 'path' ) ] ).join( '/' ) );
     });
 });
 
