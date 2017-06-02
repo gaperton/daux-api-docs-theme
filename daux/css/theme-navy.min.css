@@ -410,6 +410,9 @@ body {
 .Columns__left {
   background-color: #44444e;
 }
+.Columns__right {
+  background-color: #2c2c31;
+}
 .Columns__right__content {
   background-color: #fff;
   margin: auto;
